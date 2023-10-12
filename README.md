@@ -1,6 +1,6 @@
 - 👋 Hi, this is  Rithika
 -  An aspiring Data Analyst  interested to learn  and gain professional experience in the field of Data Science 
--  I am currently doing projects related to Analysis, Machine Learning.
+-  I am currently doing projects related to Analysis, Machine Learning using Python, MySQL and PowerBI.
   
 
 <!---
