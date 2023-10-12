@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rithika
--  I’m interested to work in the field of  Data Science 
--  I’m currently learning  the skills and doing few projects related to them.
+- 👋 Hi, this is  Rithika
+-  An aspiring Data Analyst  interested to learn  and gain professional experience in the field of Data Science 
+-  I am currently doing few projects related to Analysis, Machine Learning.
   
 
 <!---
