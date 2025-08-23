@@ -1,6 +1,7 @@
-- 👋 Hi, this is  Rithika
--  An enthusiast who wants to learn  and gain professional experience in the field of Data Science 
--  I am currently doing projects like model building for predictive analysis, Exploratory Data Analysis,etc with the help of tools such as Python, MySQL and PowerBI.
+- 👋 Hi, this is Rithika
+-  An enthusiast who wants to learn  and gain experience in the field of Data Analysis and Data Engineering
+-  Currently exploring AWS with related to data engineering and practicing Pyspark
+-  Skills: Python, SQL, Data Analysis, Power BI, Apache Airflow, MongoDB
   
 
 <!---
