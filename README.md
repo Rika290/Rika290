@@ -1,5 +1,5 @@
 - 👋 Hi, this is Rithika
--  An enthusiast who wants to learn  and gain experience in the field of Data Analysis and Data Engineering
+-  A data enthusiast who wants to learn  and gain experience in the field of Data Analysis and Data Engineering
 -  Currently exploring AWS with related to data engineering and practicing Pyspark
 -  Skills: Python, SQL, Data Analysis, Power BI, Apache Airflow, MongoDB
   
